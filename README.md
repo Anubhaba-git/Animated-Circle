@@ -1,7 +1,7 @@
 # Animated Circle with Infinite Motion
 
 This project demonstrates an animated circle that moves up and down infinitely using only HTML and CSS.
-Here you can see the result - https://animated-circle-by-anubhaba.netlify.app/
+Here you can see the result - <a href="https://animated-circle-by-anubhaba.netlify.app/">Animated Circle</a>
 
 ## Features
 - A simple circle created using HTML and styled with CSS.
